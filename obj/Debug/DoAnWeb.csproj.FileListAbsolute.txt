@@ -1,0 +1,8 @@
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DAW.Migrations._1.resources
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DAW.Migrations.AddColumeName.resources
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DAW.Migrations._2.resources
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DAW.Migrations._3.resources
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DAW.Migrations._9.resources
+C:\Users\Phong\Documents\DoAnWeb\obj\Debug\DoAnWeb.csproj.GenerateResource.cache
